@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bitgarden.sanatik" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <allow-navigation href="cdvfile:*" />
+    <feature name="CropPlugin">
+        <param name="android-package" value="com.jeduan.crop.CropPlugin" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
+    </feature>
+    <feature name="Toast">
+        <param name="android-package" value="nl.xservices.plugins.Toast" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="Cookies">
+        <param name="android-package" value="com.bez4pieci.cookies.Cookies" />
+    </feature>
+    <feature name="FirebasePlugin">
+        <param name="android-package" value="org.apache.cordova.firebase.FirebasePlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>صنعتیک</name>
+    <description>
+    Advertisement App for Indusrties
+    مرجع آگهی های معتبر صنعت ایران
+  </description>
+    <author email="hs.shafiei@gmail.com" href="http://sanatik.ir">
+    Sanatik
+  </author>
+    <icon src="res/icon/icon.png" />
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <icon density="ldpi" src="res/icon/android/ldpi-icon.png" />
+    <icon density="mdpi" src="res/icon/android/mdpi-icon.png" />
+    <icon density="hdpi" src="res/icon/android/hdpi-icon.png" />
+    <icon density="xhdpi" src="res/icon/android/xhdpi-icon.png" />
+    <icon density="xxhdpi" src="res/icon/android/xxhdpi-icon.png" />
+    <icon density="xxxhdpi" src="res/icon/android/xxxhdpi-icon.png" />
+    <splash density="hdpi" src="res/screen/android/hdpi.png" />
+    <splash density="ldpi" src="res/screen/android/ldpi.png" />
+    <splash density="mdpi" src="res/screen/android/mdpi.png" />
+    <splash density="xhdpi" src="res/screen/android/xhdpi.png" />
+    <splash density="xxhdpi" src="res/screen/android/xxhdpi.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="orientation" value="portrait" />
+</widget>

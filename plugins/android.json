@@ -1,0 +1,42 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-crop": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.build1.sanatik"
+    },
+    "com.bez4pieci.cookies": {
+      "PACKAGE_NAME": "com.build1.sanatik"
+    },
+    "cordova-plugin-firebase": {
+      "PACKAGE_NAME": "com.build1.sanatik"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.build1.sanatik"
+    }
+  },
+  "dependent_plugins": {}
+}

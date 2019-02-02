@@ -1,0 +1,17 @@
+{
+  "main.css": "./static/css/main.36f39e92.chunk.css",
+  "main.js": "./static/js/main.b69529bf.chunk.js",
+  "main.js.map": "./static/js/main.b69529bf.chunk.js.map",
+  "static/css/1.6d32fd1b.chunk.css": "./static/css/1.6d32fd1b.chunk.css",
+  "static/js/1.8d723349.chunk.js": "./static/js/1.8d723349.chunk.js",
+  "static/js/1.8d723349.chunk.js.map": "./static/js/1.8d723349.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/icons.css": "./static/media/MaterialIcons-Regular.570eb838.woff2",
+  "static/media/app.css": "./static/media/IRANSansWeb.a5080d9e.ttf",
+  "static/css/main.36f39e92.chunk.css.map": "./static/css/main.36f39e92.chunk.css.map",
+  "static/css/1.6d32fd1b.chunk.css.map": "./static/css/1.6d32fd1b.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.78c8ce2a658b2610fd6fd0c11419b375.js": "./precache-manifest.78c8ce2a658b2610fd6fd0c11419b375.js",
+  "service-worker.js": "./service-worker.js"
+}

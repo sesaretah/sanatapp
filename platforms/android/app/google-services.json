@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "743800303575",
+    "firebase_url": "https://sanatik-dd619.firebaseio.com",
+    "project_id": "sanatik-dd619",
+    "storage_bucket": "sanatik-dd619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743800303575:android:c62fa88ca2ce0148",
+        "android_client_info": {
+          "package_name": "com.bitgarden.sanatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743800303575-a6f3lsb34dpskh3rqi8f2ea8cud544rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxz4-htHnaqqf3yi6QFgYFED735yVrqI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743800303575:android:dcd457129917a27c",
+        "android_client_info": {
+          "package_name": "com.build1.sanatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743800303575-a6f3lsb34dpskh3rqi8f2ea8cud544rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxz4-htHnaqqf3yi6QFgYFED735yVrqI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

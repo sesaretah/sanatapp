@@ -1,0 +1,4 @@
+#Sat Feb 02 12:27:55 IRST 2019
+base.0=/home/hosein/Projects/mobile/testapp4/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

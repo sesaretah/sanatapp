@@ -1,0 +1,193 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d052f3e23735a2a1e973d5c5ecdefdd5/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "91,104",
+                        "startColumns": "4,4",
+                        "startOffsets": "5363,6814",
+                        "endColumns": "67,166",
+                        "endOffsets": "5426,6976"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-16.0.7.aar/608e8de12617bb0727e8d37efb5098eb/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "132,133,134",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "9598,9668,9752",
+                        "endColumns": "69,83,67",
+                        "endOffsets": "9663,9747,9815"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/68a1d914f7234d0f0a76166843bd2111/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,22,24,62,63,64,65,66,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,92,131,170,171,176,179,184,186,187",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1138,1207,1523,1654,3614,3684,3752,3824,3894,4003,4064,4125,4187,4251,4313,4374,4442,4542,4602,4668,4741,4810,4867,4919,4981,5053,5129,5164,5199,5233,5268,5431,9527,11655,11772,12039,12332,12599,12795,12867",
+                        "endLines": "16,17,22,24,62,63,64,65,66,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,92,131,170,174,176,182,184,186,187",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "1202,1265,1576,1723,3679,3747,3819,3889,3950,4059,4120,4182,4246,4308,4369,4437,4537,4597,4663,4736,4805,4862,4914,4976,5048,5124,5159,5194,5228,5263,5298,5496,9593,11767,11968,12144,12528,12723,12862,12929"
+                    }
+                },
+                {
+                    "source": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/src/main/res/values/cordova-plugin-firebase-strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "119,120",
+                        "startColumns": "4,4",
+                        "startOffsets": "8404,8484",
+                        "endColumns": "79,69",
+                        "endOffsets": "8479,8549"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/db6e8961c2da99dcb826edb30bf102f7/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "18,21,23,90,175,177,178,183,185",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1270,1452,1581,5303,11973,12149,12271,12533,12728",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "1354,1518,1649,5358,12034,12266,12327,12594,12790"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/android-crop-1.0.0.aar/d229e3ec7349e17e9217f216ee480b00/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15,67,114,115,116,117,118,135,136,142,153,157,161",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,917,968,1020,1079,3955,8107,8179,8223,8295,8352,9820,9845,10148,10728,10926,11118",
+                        "endLines": "2,12,13,14,15,67,114,115,116,117,118,135,141,152,156,160,169",
+                        "endColumns": "52,50,51,58,58,47,71,43,71,56,51,24,12,12,12,12,12",
+                        "endOffsets": "198,963,1015,1074,1133,3998,8174,8218,8290,8347,8399,9840,10143,10723,10921,11113,11650"
+                    }
+                },
+                {
+                    "source": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "121,123,124,125,126,127,128,130",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8554,8780,8888,8970,9074,9177,9297,9453",
+                        "endColumns": "143,107,81,103,102,119,96,73",
+                        "endOffsets": "8693,8883,8965,9069,9172,9292,9389,9522"
+                    }
+                },
+                {
+                    "source": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "93,94,129",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5501,5565,9394",
+                        "endColumns": "63,43,58",
+                        "endOffsets": "5560,5604,9448"
+                    }
+                },
+                {
+                    "source": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "203,1359,1403",
+                        "endColumns": "42,43,48",
+                        "endOffsets": "241,1398,1447"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6ffe96a419f668f7e987c2de83a837f4/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,96,97,98,99,100,101,102,103,105,106,107,108,109,110,111,112,113",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "246,336,416,506,596,676,757,837,5774,5879,6060,6185,6292,6472,6595,6711,6981,7169,7274,7455,7580,7755,7903,7966,8028",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
+                        "endOffsets": "331,411,501,591,671,752,832,912,5874,6055,6180,6287,6467,6590,6706,6809,7164,7269,7450,7575,7750,7898,7961,8023,8102"
+                    }
+                },
+                {
+                    "source": "/home/hosein/Projects/mobile/testapp4/platforms/android/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "0",
+                        "startOffsets": "303",
+                        "endColumns": "162",
+                        "endOffsets": "465"
+                    },
+                    "to": {
+                        "startLines": "95",
+                        "startColumns": "4",
+                        "startOffsets": "5609",
+                        "endColumns": "164",
+                        "endOffsets": "5769"
+                    }
+                },
+                {
+                    "source": "/home/hosein/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c7c964939973e33aa90c7e6e47e319bb/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "122",
+                        "startColumns": "4",
+                        "startOffsets": "8698",
+                        "endColumns": "81",
+                        "endOffsets": "8775"
+                    }
+                }
+            ]
+        }
+    ]
+}
